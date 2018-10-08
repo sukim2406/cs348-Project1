@@ -1,5 +1,5 @@
 -- Query1
-
+SELECT Category, COUNT(ProductID) AS NumberOfProducts FROM Product GROUP BY Category ORDER BY NumberOfProducts Desc;
 
 -- Query2
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-username="kim500@csora"
-pword="sX56ViAG"
+username="xxxxxxx"
+pword="xxxxxxx"
 
 # echo $1
 # echo $2

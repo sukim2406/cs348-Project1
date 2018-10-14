@@ -1,7 +1,7 @@
 #!/bin/bash
 
-username="xxxxxxx"
-pword="xxxxxxx"
+username="XXXXXXX"
+pword="XXXXXXXX"
 
 # echo $1
 # echo $2
